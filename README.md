@@ -14,7 +14,7 @@ ZMGA is a topologically consistent multi-modal graph autoencoder. Specifically, 
 - Scikit-learn==0.19.0
 
 **Datasets:**
-We have released the dataset SNARE used in our paper, the other datasets are introduced in maintext.
+We have released the dataset SNARE used in our paper as an example, the other datasets are introduced in maintext.
 
 **Demo:**
 You should change the code in load_data.py  
