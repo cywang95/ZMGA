@@ -1,5 +1,5 @@
 # ZMGA: A ZINB-based Multi-modal Graph Autoencoder Enhancing Topological Consistency in Single-Cell Clustering
-![Framework](https://github.com/cywang95/ZMGA/tree/main/fig/ZMGA.pdf)
+![Framework](https://github.com/cywang95/ZMGA/tree/main/fig/ZMGA.png)
 
 
 **Brief introduction:**
