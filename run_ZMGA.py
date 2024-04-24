@@ -11,8 +11,8 @@ def setup_parser(data_para):
     """Set up the argument parser."""
     parser = argparse.ArgumentParser(description='main')
     parser.add_argument('--dataset', default=data_para)
-    parser.add_argument('--lr_pre', default=0.001, type=float)  # Learning rate for pretraining
-    parser.add_argument('--pretrain_epochs', default=10, type=int)  # Pretrain epochs #983
+    parser.add_argument('--lr_pre', default=0.001, type=float) 
+    parser.add_argument('--pretrain_epochs', default=1000, type=int) 
     parser.add_argument("--is_validate", default=True)
     parser.add_argument("--feature_dim", default=32)
     parser.add_argument("--weight_decay", default=0.0)
