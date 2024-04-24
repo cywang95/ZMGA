@@ -21,7 +21,7 @@ You should change the code in load_data.py
 
 path = '/mnt/d/Code/ZMGA/data/' change to your path
 
-```
+
 **Implement:**
 ```python
 python run_ZMGA.py
